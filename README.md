@@ -53,7 +53,7 @@ python server.py
  ```
 Then open new terminal and run following command to run GUI
 ```
-python denoise_app.py  
+python Denoise_app.py  
  ```
 
 
