@@ -23,6 +23,9 @@ The model was trained on the LibriSpeech Noise Dataset with the following config
   
 The training achieved a validation loss of 0.0083, indicating strong denoising performance
 
+### Training Notebook
+[https://www.kaggle.com/code/bahasurunayanakantha/audio-denoiser](https://www.kaggle.com/code/bahasurunayanakantha/audio-denoiser)
+
 ## System Requirements
 ### Hardware
 - Microphone (built-in or external) (OPTIONAL)
